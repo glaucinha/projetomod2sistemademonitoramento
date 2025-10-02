@@ -1,4 +1,4 @@
-📦 Projeto de Monitoramento de Pedidos em Estoque (POO)
+##📦PROJETO DE MONITORAMENTO DE PEDIDOS EM ESTOQUE 
 Um sistema de gestão de estoque baseado em Programação Orientada a Objetos (POO), projetado para rastrear produtos, monitorar o fluxo de entradas/saídas e fornecer relatórios em tempo real.
 
 💡 Sumário
@@ -14,8 +14,8 @@ Como Rodar o Projeto
 
 Status do Projeto
 
-🧐 Sobre o Projeto
-O Monitoramento de Pedidos em Estoque é uma ferramenta de linha de comando (CLI) desenvolvida para demonstrar e aplicar conceitos de Programação Orientada a Objetos (POO). O projeto utiliza TypeScript para garantir maior tipagem e robustez ao código, sendo compilado para JavaScript para execução em ambientes Node.js.
+🧐 ##Sobre o Projeto
+## O Monitoramento de Pedidos em Estoque é uma ferramenta de linha de comando (CLI) desenvolvida para demonstrar e aplicar conceitos de Programação Orientada a Objetos (POO). O projeto utiliza TypeScript para garantir maior tipagem e robustez ao código, sendo compilado para JavaScript para execução em ambientes Node.js.
 
 O sistema foca em:
 
@@ -114,4 +114,5 @@ Status Atual: Concluído (Foco na Estrutura POO e Tipagem com TypeScript)
 Próximos Passos: Implementar persistência de dados (salvar e carregar produtos em arquivo JSON ou CSV) para que os dados não se percam ao sair do sistema.
 
 🤝 Contribuição
+
 Contribuições são bem-vindas, especialmente para refatorar o código e aprimorar a aderência aos princípios SOLID e boas práticas de TypeScript.g
